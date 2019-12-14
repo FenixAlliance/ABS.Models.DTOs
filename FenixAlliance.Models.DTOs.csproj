@@ -4,11 +4,28 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Company>Fenix Alliance</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>DLozanoNavas</Authors>
+    <PackageProjectUrl>https://fenixalliance.com.co/api/v2/documentation/</PackageProjectUrl>
+    <PackageTags>Alliance Business Suite, Fenix Alliance, DTOs</PackageTags>
+    <RepositoryUrl>https://github.com/FenixAlliance/ABS.Models.DTOs</RepositoryUrl>
+    <PackageIcon>IconApp.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>© 2009 - 20019 Fenix Alliance Group</Copyright>
+    <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.DataAnnotations" Version="2.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\FenixAlliance\wwwroot\images\FenixAlliance\Isotipo\IconApp.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 
