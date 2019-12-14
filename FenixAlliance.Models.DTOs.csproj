@@ -4,14 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Company>Fenix Alliance</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>DLozanoNavas</Authors>
+    <Authors>Fenix Alliance Group</Authors>
     <PackageProjectUrl>https://fenixalliance.com.co/api/v2/documentation/</PackageProjectUrl>
-    <PackageTags>Alliance Business Suite, Fenix Alliance, DTOs</PackageTags>
+    <PackageTags>AllianceBusinessSuite, FenixAlliance, DTOs, ABS</PackageTags>
     <RepositoryUrl>https://github.com/FenixAlliance/ABS.Models.DTOs</RepositoryUrl>
     <PackageIcon>IconApp.png</PackageIcon>
     <PackageIconUrl />
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Copyright>© 2009 - 20019 Fenix Alliance Group</Copyright>
+    <Copyright>© 2009 - 2019 Fenix Alliance Group. All rights reserved.</Copyright>
     <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
     <Version>1.0.1</Version>
   </PropertyGroup>
