@@ -8,12 +8,14 @@
     <PackageProjectUrl>https://fenixalliance.com.co/api/v2/documentation/</PackageProjectUrl>
     <PackageTags>AllianceBusinessSuite, FenixAlliance, DTOs, ABS</PackageTags>
     <RepositoryUrl>https://github.com/FenixAlliance/ABS.Models.DTOs</RepositoryUrl>
-    <PackageIcon>IconApp.png</PackageIcon>
+    <PackageIcon>Icon.png</PackageIcon>
     <PackageIconUrl />
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>© 2009 - 2019 Fenix Alliance Group. All rights reserved.</Copyright>
     <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>Adds new Cart DTO. Designed for REST query extension and graphql API Compatibility.</PackageReleaseNotes>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\FenixAlliance\wwwroot\images\FenixAlliance\Isotipo\IconApp.png">
+    <None Include="Icon.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

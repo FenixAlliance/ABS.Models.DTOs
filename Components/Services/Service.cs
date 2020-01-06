@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FenixAlliance.Models.DTOs.Components.Services
 {
-    class Service
+    public class Service
     {
     }
 }

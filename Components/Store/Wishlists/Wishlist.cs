@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using FenixAlliance.Models.DTOs.Components.Services;
+using FenixAlliance.Models.DTOs.Components.Store;
+using FenixAlliance.Models.DTOs.Components.Subscriptions;
+using System.Collections.Generic;
 
 namespace FenixAlliance.Models.DTOs.Components.Commons
 {
@@ -6,13 +9,12 @@ namespace FenixAlliance.Models.DTOs.Components.Commons
     {
         public string ID { get; set; }
         public string CartID { get; set; }
-        public double Balance { get; set; }
-        public string CountryID { get; set; }
-        public string CurrencyID { get; set; }
+        public string Title { get; set; }
+        public bool Public { get; set; }
 
-        public List<string> AddedProducts { get; set; }
-        public List<string> AddedServices { get; set; }
-        public List<string> AddedSubscriptions { get; set; }
+        public List<Product> Products { get; set; }
+        public List<Service> Services { get; set; }
+        public List<Subscription> Subscriptions { get; set; }
 
     }
 }

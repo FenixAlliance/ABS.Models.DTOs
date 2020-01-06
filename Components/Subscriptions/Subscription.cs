@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FenixAlliance.Models.DTOs.Components.Subscriptions
 {
-    class Subscription
+    public class Subscription
     {
     }
 }
