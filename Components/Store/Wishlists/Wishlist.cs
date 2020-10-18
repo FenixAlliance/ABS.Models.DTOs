@@ -1,7 +1,7 @@
-﻿using FenixAlliance.Models.DTOs.Components.Services;
+﻿using System.Collections.Generic;
+using FenixAlliance.Models.DTOs.Components.Services;
 using FenixAlliance.Models.DTOs.Components.Store;
 using FenixAlliance.Models.DTOs.Components.Subscriptions;
-using System.Collections.Generic;
 
 namespace FenixAlliance.Models.DTOs.Components.Commons
 {

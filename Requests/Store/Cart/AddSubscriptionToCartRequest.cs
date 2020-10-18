@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace FenixAlliance.Models.DTOs.Requests
+﻿namespace FenixAlliance.Models.DTOs.Requests
 {
     public class AddSubscriptionToCartRequest
     {

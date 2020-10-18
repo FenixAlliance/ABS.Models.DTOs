@@ -1,9 +1,7 @@
-﻿using FenixAlliance.Models.DTOs.Components.Commons;
+﻿using System.Collections.Generic;
+using FenixAlliance.Models.DTOs.Components.Commons;
 using FenixAlliance.Models.DTOs.Components.Services;
 using FenixAlliance.Models.DTOs.Components.Subscriptions;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace FenixAlliance.Models.DTOs.Components.Store.Carts
 {
@@ -16,8 +14,7 @@ namespace FenixAlliance.Models.DTOs.Components.Store.Carts
         public Country Country { get; set; }
         public Currency Currency { get; set; }
 
-        public List<string> Wishlists { get; set; }= new List<string>();
-
+        public List<string> Wishlists { get; set; } = new List<string>();
         public List<Product> Products { get; set; } = new List<Product>();
         public List<Service> Services { get; set; } = new List<Service>();
         public List<Subscription> Subscriptions { get; set; } = new List<Subscription>();

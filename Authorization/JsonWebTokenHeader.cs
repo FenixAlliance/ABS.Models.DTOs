@@ -1,8 +1,4 @@
-﻿using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-
-namespace FenixAlliance.Models.DTOs.Authorization
+﻿namespace FenixAlliance.Models.DTOs.Authorization
 {
     public partial class JsonWebTokenHeader
     {
@@ -24,6 +20,6 @@ namespace FenixAlliance.Models.DTOs.Authorization
         public string typ { get; set; } = "JWT";
     }
 
-  
+
 
 }

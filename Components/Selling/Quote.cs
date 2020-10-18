@@ -1,6 +1,7 @@
 ﻿namespace FenixAlliance.Models.DTOs.Components.Selling
 {
-    class Quote
+    public class Quote
     {
+        public string ID { get; set; }
     }
 }

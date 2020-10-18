@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
 namespace FenixAlliance.Models.DTOs.Components.Social
 {
-    public partial  class PrivateMessage
+    public partial class PrivateMessage
     {
         public string ID { get; set; }
         public bool Readed { get; set; }

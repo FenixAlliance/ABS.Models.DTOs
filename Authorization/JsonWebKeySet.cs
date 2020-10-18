@@ -1,7 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Globalization;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
 namespace FenixAlliance.Models.DTOs.Authorization
 {
@@ -45,5 +43,5 @@ namespace FenixAlliance.Models.DTOs.Authorization
         public string N { get; set; }
     }
 
-  
+
 }

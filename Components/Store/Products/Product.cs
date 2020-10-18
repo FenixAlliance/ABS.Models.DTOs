@@ -85,9 +85,9 @@ namespace FenixAlliance.Models.DTOs.Components.Store
         public List<ProductCategory> Categories { get; set; }
         public List<ProductAttribute> Attributes { get; set; }
     }
-
     public class Product
     {
+        public string ID { get; set; }
         public string CartRecordID { get; set; }
         public string CompareRecordID { get; set; }
         public string ItemID { get; set; }

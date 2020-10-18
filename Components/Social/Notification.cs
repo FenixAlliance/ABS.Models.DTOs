@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
 namespace FenixAlliance.Models.DTOs.Components.Social
 {
@@ -17,6 +13,6 @@ namespace FenixAlliance.Models.DTOs.Components.Social
     }
 
 
-   
+
 
 }

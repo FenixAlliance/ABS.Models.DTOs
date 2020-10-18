@@ -1,7 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
 namespace FenixAlliance.Models.DTOs.Authorization
 {
@@ -22,11 +19,11 @@ namespace FenixAlliance.Models.DTOs.Authorization
         /// <summary>
         /// The Alliance ID for this user.
         /// </summary>
-        public string aid { get; set; }     
+        public string aid { get; set; }
         /// <summary>
         /// The acting enrollment
         /// </summary>
-        public string sub { get; set; }     
+        public string sub { get; set; }
         /// <summary>
         /// The acting tenant
         /// </summary>
@@ -46,6 +43,6 @@ namespace FenixAlliance.Models.DTOs.Authorization
         public List<string> Scopes { get; set; }
     }
 
- 
+
 
 }

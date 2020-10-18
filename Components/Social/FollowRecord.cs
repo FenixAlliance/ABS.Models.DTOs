@@ -39,7 +39,7 @@ namespace FenixAlliance.Models.DTOs.Components.Social
 
     public static class Serialize
     {
-        public static string ToJson(this FollowRecord self) => JsonConvert.SerializeObject((object) self, (JsonSerializerSettings) Converter.Settings);
+        public static string ToJson(this FollowRecord self) => JsonConvert.SerializeObject((object)self, (JsonSerializerSettings)Converter.Settings);
     }
 
     internal static class Converter

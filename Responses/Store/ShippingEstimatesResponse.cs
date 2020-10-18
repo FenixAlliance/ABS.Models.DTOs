@@ -8,7 +8,7 @@ namespace FenixAlliance.Models.DTOs.Responses.Store
     {
         public string ID { get; set; } = Guid.NewGuid().ToString();
         public DateTime Timestamp { get; set; } = DateTime.Now;
-        public List<ShippingEstimate> ShippingEstimates { get; set; }
+        public List<ShipmentEstimate> ShippingEstimates { get; set; }
     }
 
 

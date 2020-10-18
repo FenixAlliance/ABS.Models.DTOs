@@ -1,10 +1,10 @@
-﻿using FenixAlliance.Models.DTOs.Components.Businesses;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using FenixAlliance.Models.DTOs.Components.Businesses;
 using FenixAlliance.Models.DTOs.Components.ID;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 
 namespace FenixAlliance.Models.DTOs.Responses
 {
@@ -45,8 +45,8 @@ namespace FenixAlliance.Models.DTOs.Responses
         public Error Error { get; set; }
         public string CorrelationID { get; set; }
         public DateTime UTCTimestamp { get; set; } = DateTime.UtcNow;
-    }     
-    
+    }
+
 
     public class ResponsePagination
     {
@@ -55,7 +55,7 @@ namespace FenixAlliance.Models.DTOs.Responses
         public string PrevPageToken { get; set; }
         public string OrderedBy { get; set; }
         public int PageSize { get; set; }
-        public int PageIndex { get; set; } 
+        public int PageIndex { get; set; }
     }
 
     /// Present in all responses

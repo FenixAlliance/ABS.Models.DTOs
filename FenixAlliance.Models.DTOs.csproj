@@ -1,21 +1,25 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <Company>Fenix Alliance</Company>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Fenix Alliance Group</Authors>
-    <PackageProjectUrl>https://fenixalliance.com.co/api/v2/documentation/</PackageProjectUrl>
-    <PackageTags>AllianceBusinessSuite, FenixAlliance, DTOs, ABS</PackageTags>
-    <RepositoryUrl>https://github.com/FenixAlliance/ABS.Models.DTOs</RepositoryUrl>
-    <PackageIcon>Icon.png</PackageIcon>
     <PackageIconUrl />
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Copyright>© 2009 - 2019 Fenix Alliance Group. All rights reserved.</Copyright>
-    <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
-    <Version>1.0.2</Version>
-    <PackageReleaseNotes>Adds new Cart DTO. Designed for REST query extension and graphql API Compatibility.</PackageReleaseNotes>
+    <Version>1.0.4</Version>
+    <PackageIcon>Icon.png</PackageIcon>
+    <Company>Fenix Alliance Inc.</Company>
+    <Authors>Fenix Alliance Group</Authors>
     <NeutralLanguage>en-US</NeutralLanguage>
+    <TargetFramework>netstandard2.0</TargetFramework>    
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Alliance Business Suite, FenixAlliance, DTOs, ABS</PackageTags>
+    <Copyright>© 2009 - 2019 Fenix Alliance Group. All rights reserved.</Copyright>
+    <RepositoryUrl>https://github.com/FenixAlliance/ABS.Models.DTOs</RepositoryUrl>
+    <PackageProjectUrl>https://fenixalliance.com.co/api/v2/documentation/</PackageProjectUrl>
+    <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
+    <PackageReleaseNotes>Adds new Cart DTO. Designed for REST query extension and graphql API Compatibility.</PackageReleaseNotes>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
   </PropertyGroup>
 
   <ItemGroup>

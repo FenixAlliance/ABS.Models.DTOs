@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
+﻿using Newtonsoft.Json;
 
 namespace FenixAlliance.Models.DTOs.Authorization
 {
@@ -16,6 +14,6 @@ namespace FenixAlliance.Models.DTOs.Authorization
         public string AccessToken { get; set; }
     }
 
- 
+
 
 }

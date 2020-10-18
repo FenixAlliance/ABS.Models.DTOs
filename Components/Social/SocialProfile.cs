@@ -1,11 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Globalization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-
-namespace FenixAlliance.Models.DTOs.Components.Social
+﻿namespace FenixAlliance.Models.DTOs.Components.Social
 {
-    public partial class SocialProfile
+    public class SocialProfile
     {
         public string ID { get; set; }
         public string About { get; set; }
