@@ -27,7 +27,6 @@ namespace FenixAlliance.Models.DTOs.Responses.Store
 
     }
 
-
     public partial class APIProductsResponse
     {
         public static APIProductsResponse FromJson(string json) => JsonConvert.DeserializeObject<APIProductsResponse>(json, Converter.Settings);
@@ -42,8 +41,8 @@ namespace FenixAlliance.Models.DTOs.Responses.Store
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {
-            MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
             DateParseHandling = DateParseHandling.None,
+            MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
             Converters =
             {
                 new IsoDateTimeConverter { DateTimeStyles = DateTimeStyles.AssumeUniversal }

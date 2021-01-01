@@ -11,6 +11,5 @@ namespace FenixAlliance.Models.DTOs.Components.Commons
         public Country Country { get; set; }
         public double ExchangeRate { get; set; }
         public DateTime ExchangeRateTimestamp { get; set; }
-
     }
 }
