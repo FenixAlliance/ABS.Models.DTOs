@@ -7,11 +7,6 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <TargetFramework>net5.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
-    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
-    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
-    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <PackageTags>Alliance Business Suite, FenixAlliance, DTOs, ABS</PackageTags>
     <Copyright>© 2009 - 2019 Fenix Alliance Group. All rights reserved.</Copyright>
     <Description>Data Transfer Objects for the Alliance Business Suite API Version 2.</Description>
