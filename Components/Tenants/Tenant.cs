@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FenixAlliance.Models.DTOs.Components.Businesses
+namespace FenixAlliance.ABM.Models.DTOs.Components.Tenants
 {
     public class Tenant
     {

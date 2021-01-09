@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs.Components.ID
+namespace FenixAlliance.ABM.Models.DTOs.Components.Holders
 {
     /// <summary>
 

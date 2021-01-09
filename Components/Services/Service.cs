@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Services
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Services
 {
     public class Service
     {

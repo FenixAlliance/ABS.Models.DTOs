@@ -1,6 +1,7 @@
 ﻿using System;
+using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
 
-namespace FenixAlliance.Models.DTOs.Components.Commons
+namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies
 {
     public class Currency
     {

@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.CRM.ContactProfiles
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Contacts.ContactProfiles
 {
     class EmployeeProfile
     {

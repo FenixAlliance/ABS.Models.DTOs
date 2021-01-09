@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Commons
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Accounting.Billing
 {
     public class Wallet
     {

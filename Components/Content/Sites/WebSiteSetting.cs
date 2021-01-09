@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.CMS.Sites
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Content.Sites
 {
     public class WebSiteSettings
     {

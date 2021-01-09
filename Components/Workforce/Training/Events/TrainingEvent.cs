@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Workforce.Training.Events
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Workforce.Training.Events
 {
     class TrainingEvent
     {

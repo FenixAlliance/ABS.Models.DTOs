@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Procurement
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Procurement
 {
     class Supplier
     {

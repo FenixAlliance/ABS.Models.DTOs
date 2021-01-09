@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.CMS.Forums
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Content.Forums
 {
     public class Forum
     {

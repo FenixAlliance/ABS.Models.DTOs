@@ -1,9 +1,11 @@
 ﻿using System.Collections.Generic;
-using FenixAlliance.Models.DTOs.Components.Commons;
-using FenixAlliance.Models.DTOs.Components.Services;
-using FenixAlliance.Models.DTOs.Components.Subscriptions;
+using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+using FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies;
+using FenixAlliance.ABM.Models.DTOs.Components.Services;
+using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
+using FenixAlliance.ABM.Models.DTOs.Components.Subscriptions;
 
-namespace FenixAlliance.Models.DTOs.Components.Store.Carts
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Carts
 {
     public class Cart
     {

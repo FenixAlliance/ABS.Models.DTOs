@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Billing
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Accounting.Invoices
 {
     class Invoice
     {

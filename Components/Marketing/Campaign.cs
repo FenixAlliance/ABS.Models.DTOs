@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Marketing
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Marketing
 {
     class Campaign
     {

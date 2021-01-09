@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using FenixAlliance.Models.DTOs.Components.Services;
-using FenixAlliance.Models.DTOs.Components.Store;
-using FenixAlliance.Models.DTOs.Components.Subscriptions;
+using FenixAlliance.ABM.Models.DTOs.Components.Services;
+using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
+using FenixAlliance.ABM.Models.DTOs.Components.Subscriptions;
 
-namespace FenixAlliance.Models.DTOs.Components.Commons
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Wishlists
 {
     public class Wishlist
     {

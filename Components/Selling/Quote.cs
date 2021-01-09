@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Selling
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Selling
 {
     public class Quote
     {

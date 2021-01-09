@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FenixAlliance.Models.DTOs.Components.Store.Carts
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Carts.CartRecords
 {
     public class ServiceCartRecord
     {

@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Projects
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Projects
 {
     class Project
     {

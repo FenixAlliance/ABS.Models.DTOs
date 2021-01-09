@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.Mappers.Accounting
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Accounting.Banking
 {
     public class Bank
     {

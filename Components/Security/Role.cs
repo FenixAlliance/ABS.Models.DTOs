@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Security
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Security
 {
     class Role
     {

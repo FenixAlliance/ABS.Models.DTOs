@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using FenixAlliance.Models.DTOs.Components.Social;
+using FenixAlliance.ABM.Models.DTOs.Components.Social;
 
-namespace FenixAlliance.Models.DTOs.Responses.Base
+namespace FenixAlliance.ABM.Models.DTOs.Responses.Social
 {
     public class FollowRecordsResponse : APIResponse
     {

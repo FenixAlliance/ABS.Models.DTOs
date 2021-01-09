@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Analytics
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Analytics
 {
     class Survey
     {

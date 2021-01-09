@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Subscriptions
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Subscriptions
 {
     public class SubscriptionPlan
     {

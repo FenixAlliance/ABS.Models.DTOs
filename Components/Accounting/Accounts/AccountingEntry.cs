@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FenixAlliance.Models.Mappers.Accounting
+namespace FenixAlliance.ABM.Models.DTOs.Components.Accounting.Accounts
 {
     public class AccountingEntry
     {

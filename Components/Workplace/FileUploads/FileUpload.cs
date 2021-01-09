@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Workplace.Files
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Workplace.FileUploads
 {
     class FileUpload
     {

@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Requests
+﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store
 {
     public class CheckoutRequest
     {

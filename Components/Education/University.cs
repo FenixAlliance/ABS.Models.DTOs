@@ -3,7 +3,7 @@ using System.Globalization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs
+namespace FenixAlliance.ABM.Models.DTOs.Components.Education
 {
 
     public partial class University

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using FenixAlliance.Models.DTOs.Components.Businesses;
+using FenixAlliance.ABM.Models.DTOs.Components.Tenants;
 
-namespace FenixAlliance.Models.DTOs.Responses.Business
+namespace FenixAlliance.ABM.Models.DTOs.Responses.Business
 {
     public partial class BusinessEnrollmentsResponse : APIResponse
     {

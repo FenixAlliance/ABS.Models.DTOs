@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FenixAlliance.Models.DTOs.Authorization
+namespace FenixAlliance.ABM.Models.DTOs.Authorization
 {
     public partial class JsonWebTokenPayload
     {

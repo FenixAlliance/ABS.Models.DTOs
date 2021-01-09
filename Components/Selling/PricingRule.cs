@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FenixAlliance.Models.DTOs.Components.Selling
+namespace FenixAlliance.ABM.Models.DTOs.Components.Selling
 {
     public class PricingRule
     {

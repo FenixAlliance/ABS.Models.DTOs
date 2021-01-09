@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.CMS.Pages
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Content.Pages
 {
     class WebPage
     {

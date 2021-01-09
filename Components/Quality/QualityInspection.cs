@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Quality
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Quality
 {
     class QualityInspection
     {

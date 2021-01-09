@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Workforce.Payroll
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Workforce.Payroll
 {
     class Payroll
     {

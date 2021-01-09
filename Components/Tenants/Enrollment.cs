@@ -1,6 +1,6 @@
-﻿using FenixAlliance.Models.DTOs.Components.ID;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Holders;
 
-namespace FenixAlliance.Models.DTOs.Components.Businesses
+namespace FenixAlliance.ABM.Models.DTOs.Components.Tenants
 {
     public class Enrollment
     {

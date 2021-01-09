@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Commons
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Countries
 {
     public class Country
     {

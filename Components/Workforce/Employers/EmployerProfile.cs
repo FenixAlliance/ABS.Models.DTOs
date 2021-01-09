@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Workforce.Employers
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Workforce.Employers
 {
     class EmployerProfile
     {

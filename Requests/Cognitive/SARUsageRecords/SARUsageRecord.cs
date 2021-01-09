@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Requests.SAR
+﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Cognitive.SARUsageRecords
 {
     public class SARUsageRecord
     {

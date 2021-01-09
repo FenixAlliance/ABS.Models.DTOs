@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Logistics.Warehousing
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Logistics.Warehousing
 {
     public class Warehouse
     {

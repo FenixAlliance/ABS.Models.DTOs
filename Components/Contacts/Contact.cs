@@ -3,7 +3,7 @@ using System.Globalization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs.Components.CRM
+namespace FenixAlliance.ABM.Models.DTOs.Components.Contacts
 {
     public partial class Contact
     {

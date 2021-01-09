@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Partners
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Partners
 {
     public class PartnerProfile
     {

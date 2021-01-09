@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Logistics.Shipping
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping
 {
     public class DeliveryNote
     {

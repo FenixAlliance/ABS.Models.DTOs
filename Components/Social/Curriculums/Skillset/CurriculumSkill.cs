@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Social.Curriculums.Skillset
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Social.Curriculums.Skillset
 {
     public class CurriculumSkill
     {

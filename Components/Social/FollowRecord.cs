@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Globalization;
-using FenixAlliance.Models.DTOs.Responses;
+using FenixAlliance.ABM.Models.DTOs.Responses;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs.Components.Social
+namespace FenixAlliance.ABM.Models.DTOs.Components.Social
 {
 
     public class APISocialActivityResponse : APIResponse

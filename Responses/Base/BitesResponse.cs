@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Responses.Base
+﻿namespace FenixAlliance.ABM.Models.DTOs.Responses.Base
 {
     public class PhotoResponse
     {

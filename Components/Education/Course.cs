@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.LMS
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Education
 {
     class Course
     {

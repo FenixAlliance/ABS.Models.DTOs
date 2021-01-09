@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-
-namespace FenixAlliance.Models.DTOs.Components.Global.Currencies
+namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies
 {
     public class CurrencyExchangeRates
     {

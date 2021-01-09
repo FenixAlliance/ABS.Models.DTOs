@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace FenixAlliance.Models.DTOs.Components.Support
+namespace FenixAlliance.ABM.Models.DTOs.Components.Helpdesk
 {
     public class ContactInquiry
     {

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using FenixAlliance.Models.DTOs.Components.Businesses;
-using FenixAlliance.Models.DTOs.Components.ID;
+using FenixAlliance.ABM.Models.DTOs.Components.Holders;
+using FenixAlliance.ABM.Models.DTOs.Components.Tenants;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs.Responses
+namespace FenixAlliance.ABM.Models.DTOs.Responses
 {
 
     public class ClientApplication

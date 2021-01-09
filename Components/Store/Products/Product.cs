@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using FenixAlliance.Models.DTOs.Components.Commons;
-using ProductAttribute = FenixAlliance.Models.DTOs.Components.Commons.ProductAttribute;
-using ProductType = FenixAlliance.Models.DTOs.Components.Commons.ProductType;
+using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+using FenixAlliance.ABM.Models.DTOs.Components.Social;
 
-namespace FenixAlliance.Models.DTOs.Components.Store
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Products
 {
     public partial class MinimalAPIProduct
     {

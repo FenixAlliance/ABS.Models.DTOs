@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FenixAlliance.Models.DTOs.Components.Commons
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Products
 {
     public class ProductReview
     {

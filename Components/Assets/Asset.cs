@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Assets
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Assets
 {
     class Asset
     {

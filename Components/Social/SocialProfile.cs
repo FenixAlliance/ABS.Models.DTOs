@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Social
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Social
 {
     public class SocialProfile
     {

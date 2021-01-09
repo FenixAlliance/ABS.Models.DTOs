@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Legal
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Policies
 {
     class Policy
     {

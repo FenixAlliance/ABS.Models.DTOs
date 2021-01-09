@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Startups
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Startups
 {
     public class StartupProfile
     {

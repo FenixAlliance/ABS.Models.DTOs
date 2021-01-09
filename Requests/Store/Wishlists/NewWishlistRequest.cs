@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Requests
+﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store.Wishlists
 {
     public class NewWishlistRequest
     {

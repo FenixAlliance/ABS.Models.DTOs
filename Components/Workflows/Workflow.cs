@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Workflows
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Workflows
 {
     class Workflow
     {

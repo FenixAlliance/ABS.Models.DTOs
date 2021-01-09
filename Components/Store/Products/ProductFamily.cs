@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Store.Products
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Products
 {
     public class ProductFamily
     {

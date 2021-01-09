@@ -1,4 +1,4 @@
-﻿namespace FenixAlliance.Models.DTOs.Components.Sustainability
+﻿namespace FenixAlliance.ABM.Models.DTOs.Components.Sustainability
 {
     class SustainabilityProfile
     {

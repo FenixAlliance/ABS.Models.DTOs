@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FenixAlliance.Models.DTOs.Components.Social
+namespace FenixAlliance.ABM.Models.DTOs.Components.Social
 {
     public partial class PrivateMessage
     {

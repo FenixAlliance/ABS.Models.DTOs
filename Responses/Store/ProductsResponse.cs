@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Globalization;
-using FenixAlliance.Models.DTOs.Components.Store;
+using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FenixAlliance.Models.DTOs.Responses.Store
+namespace FenixAlliance.ABM.Models.DTOs.Responses.Store
 {
     public partial class APIProductsResponse : APIResponse
     {
