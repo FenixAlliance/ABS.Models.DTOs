@@ -12,18 +12,17 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <RepositoryBranch>main</RepositoryBranch>
     <TargetFramework>net5.0</TargetFramework>
-    <DevelopmentDependency>false</DevelopmentDependency>
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <DevelopmentDependency>false</DevelopmentDependency>
     <PackageProjectUrl>https://absuite.net</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <Copyright>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© 2009 - 2021 Fenix Alliance Inc. All rights reserved.</Copyright>
-    <PackageTags>Alliance Business Suite; Fenix Alliance, ABS, ABM; ABP; ACL; APS; ACS;</PackageTags>
+    <Copyright>© 2009 - 2021 Fenix Alliance Inc. All rights reserved.</Copyright>
+    <PackageTags>Alliance Business Suite; Fenix Alliance; ABS; ABM; ABP; ACL; APS; ACS;</PackageTags>
     <PackageIconUrl>https://fenixalliance.com.co/images/FenixAlliance/AppIcon/apple-icon-120x120.png</PackageIconUrl>
-    <PackageReleaseNotes>Standarize at v1.1.1</PackageReleaseNotes>
     <Description>Application Component for the Alliance Business Suite.</Description>
     <RepositoryUrl>https://github.com/FenixAlliance/ABM.Models.DTOs</RepositoryUrl>
+    <PackageReleaseNotes>Standarize at v1.1.1</PackageReleaseNotes>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Icon.png" Pack="True" PackagePath="" />
