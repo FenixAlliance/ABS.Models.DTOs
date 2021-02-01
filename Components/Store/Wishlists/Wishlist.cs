@@ -3,9 +3,9 @@ using FenixAlliance.ABM.Models.DTOs.Components.Services;
 using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
 using FenixAlliance.ABM.Models.DTOs.Components.Subscriptions;
 
-namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Wishlists
+namespace FenixAlliance.ABM.Models.DTOs.Components.Store.WishLists
 {
-    public class Wishlist
+    public class WishList
     {
         public string ID { get; set; }
         public string CartID { get; set; }

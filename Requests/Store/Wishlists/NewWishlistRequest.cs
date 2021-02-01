@@ -1,6 +1,6 @@
-﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store.Wishlists
+﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists
 {
-    public class NewWishlistRequest
+    public class NewWishListRequest
     {
         public string Title { get; set; }
         public string CartID { get; set; }

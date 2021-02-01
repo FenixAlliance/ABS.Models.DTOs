@@ -1,8 +1,8 @@
-﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store.Wishlists
+﻿namespace FenixAlliance.ABM.Models.DTOs.Requests.Store.WishLists
 {
-    public class ServiceToWishlistRequest
+    public class ServiceToWishListRequest
     {
-        public string WishlistID { get; set; }
+        public string WishListID { get; set; }
         public string ServiceID { get; set; }
     }
 }

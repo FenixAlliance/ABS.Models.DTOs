@@ -16,7 +16,7 @@ namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Carts
         public Country Country { get; set; }
         public Currency Currency { get; set; }
 
-        public List<string> Wishlists { get; set; } = new List<string>();
+        public List<string> WishLists { get; set; } = new List<string>();
         public List<Product> Products { get; set; } = new List<Product>();
         public List<Service> Services { get; set; } = new List<Service>();
         public List<Subscription> Subscriptions { get; set; } = new List<Subscription>();
