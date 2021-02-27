@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies;
+using System.Collections.Generic;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses.Global
 {

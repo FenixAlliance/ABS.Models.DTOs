@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Globalization;
-using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
+using System.Collections.Generic;
+using System.Globalization;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses.Store
 {

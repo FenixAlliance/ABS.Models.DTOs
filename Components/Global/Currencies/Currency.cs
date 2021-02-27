@@ -1,5 +1,5 @@
-﻿using System;
-using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+using System;
 
 namespace FenixAlliance.ABM.Models.DTOs.Components.Global.Currencies
 {

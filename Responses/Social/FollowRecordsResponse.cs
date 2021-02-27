@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using FenixAlliance.ABM.Models.DTOs.Components.Social;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Social;
+using System.Collections.Generic;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses.Social
 {

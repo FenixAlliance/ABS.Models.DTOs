@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using FenixAlliance.ABM.Models.DTOs.Components.Holders;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Holders;
 using FenixAlliance.ABM.Models.DTOs.Components.Tenants;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses
 {

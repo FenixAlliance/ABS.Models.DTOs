@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Global.Countries;
+using System.Collections.Generic;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses.Global
 {

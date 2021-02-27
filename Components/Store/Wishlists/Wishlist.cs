@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-using FenixAlliance.ABM.Models.DTOs.Components.Services;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Services;
 using FenixAlliance.ABM.Models.DTOs.Components.Store.Products;
 using FenixAlliance.ABM.Models.DTOs.Components.Subscriptions;
+using System.Collections.Generic;
 
 namespace FenixAlliance.ABM.Models.DTOs.Components.Store.WishLists
 {

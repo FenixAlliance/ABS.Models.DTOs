@@ -1,6 +1,6 @@
-﻿using System;
+﻿using FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping;
+using System;
 using System.Collections.Generic;
-using FenixAlliance.ABM.Models.DTOs.Components.Logistics.Shipping;
 
 namespace FenixAlliance.ABM.Models.DTOs.Responses.Store
 {
