@@ -12,7 +12,11 @@ namespace FenixAlliance.ABM.Models.DTOs.Components.Store.Carts
         public string ID { get; set; }
         public string IP { get; set; }
         public string Type { get; set; }
+        public double Freight { get; set; }
         public double Balance { get; set; }
+        public double SubTotal { get; set; }
+        public double Total { get; set; }
+
         public Country Country { get; set; }
         public Currency Currency { get; set; }
 
